@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Experienced full-stack developer adept in Java, JavaScript, Python, and C++, with a knack for crafting innovative solutions. 🚀 Skilled in frameworks like Spring Boot, ReactJs, and Node.js, I thrive in architecting robust software systems. From integrating cutting-edge AI technologies to orchestrating seamless CI/CD pipelines, I'm passionate about driving efficiency and excellence in software development. Let's code the future together! 💻✨"
+Experienced full-stack developer adept in Java, JavaScript, Python, and C++, with a knack for crafting innovative solutions. 🚀 Skilled in frameworks like Spring Boot, ReactJs, and Node.js, I thrive in architecting robust software systems. From integrating cutting-edge AI technologies to orchestrating seamless CI/CD pipelines, I'm passionate about driving efficiency and excellence in software development. Let's code the future together! 💻✨
 
 
 ## 🌐 Socials:
